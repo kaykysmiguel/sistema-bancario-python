@@ -1,6 +1,6 @@
 # 🏦 Sistema Bancário em Python
 
-Projeto desenvolvido para praticar lógica de programação utilizando Python.
+Projeto desenvolvido em Python para prática de lógica de programação.
 
 ## 🚀 Funcionalidades
 
